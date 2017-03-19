@@ -11,5 +11,5 @@
         android:onClick="show"
         android:text="显示等待框" />
 
-    
+
 </LinearLayout>
